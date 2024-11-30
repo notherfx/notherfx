@@ -7,4 +7,5 @@
 - ⭐ Github Star ⭐ 
 - 💻 Python Developer
 - 🔴 Ethical Hacker/Pentester
+- 👿 Malware Developer(Ethical use)
 <br>
