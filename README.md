@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/notherfx/notherfx/blob/main/zNother_banner.png" alt="zNother Banner" style="max-height: 150px; width: 200;"/>
-
-
-
 <h1>👋 Hello, I'm zNother — Hola, soy zNother</h1>
 
 🔒 Python Developer | Ethical Hacker | Malware Researcher (for ethical purposes)  
@@ -86,6 +82,6 @@
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0d1117&height=100&section=footer"/>
+<img src="https://github.com/notherfx/notherfx/blob/main/zNother_banner.png" alt="zNother Banner" style="max-height: 150px; width: 200;"/>
 
 </div>
