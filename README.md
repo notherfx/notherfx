@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/notherfx/notherfx/blob/main/zNother_banner.png" alt="zNother Banner" style="max-width: 100%;"/>
+
 <h1>👋 Hello, I'm zNother — Hola, soy zNother</h1>
 
 🔒 Python Developer | Ethical Hacker | Malware Researcher (for ethical purposes)  
