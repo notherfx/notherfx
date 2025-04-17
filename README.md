@@ -46,7 +46,7 @@
 
 ## 📂 Projects | Proyectos
 
-- [`reconstruct_rsa_private_key`](https://github.com/tu_usuario/reconstruct_rsa_private_key)  
+- [`reconstruct_rsa_private_key`](https://github.com/notherfx/reconstruct_rsa_private_key)  
   🔐 Rebuilds RSA private keys from known factored moduli — ideal for CTFs & cryptography learners.  
   🔐 Reconstruye claves privadas RSA desde módulos factorizados — ideal para CTFs y estudiantes de criptografía.
 
