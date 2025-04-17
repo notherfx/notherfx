@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/notherfx/notherfx/blob/main/zNother_banner.png" alt="zNother Banner" width="800"/>
+<img src="https://github.com/notherfx/notherfx/blob/main/zNother_banner.png" alt="zNother Banner" style="max-height: 200px; width: auto;"/>
+
 
 
 <h1>👋 Hello, I'm zNother — Hola, soy zNother</h1>
