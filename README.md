@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/notherfx/notherfx/blob/main/zNother_banner.png" alt="zNother Banner" style="max-height: 150px; width: 500;"/>
+<img src="https://github.com/notherfx/notherfx/blob/main/zNother_banner.png" alt="zNother Banner" style="max-height: 150px; width: 200;"/>
 
 
 
